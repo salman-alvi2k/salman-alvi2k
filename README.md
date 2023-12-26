@@ -43,10 +43,6 @@ Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a re
         <img alt="ReactJS"
             src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
-   <a href="https://www.w3schools.com/react/" target="_blank">
-        <img alt="Typescript"
-            src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    </a>
     <a href="https://mui.com/" target="_blank">
         <img alt="Material-UI"
             src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
