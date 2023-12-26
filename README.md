@@ -4,7 +4,7 @@
 ## :sassy_man: About me
 Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a recent computer science graduate from Air University, Islamabad. I'm passionate about crafting scalable applications. As a problem-solver and critical thinker, I’m always eager to learn and take on new challenges. I also have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
 
-## 👯 Connect with me
+##  Connect with me
 <p>
     <a href="https://www.linkedin.com/in/salmanalvi2k/" target="_blank">
         <img alt="linkedin"
@@ -15,7 +15,7 @@ Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a re
     </a>
 </p>
 
-## 🛠️ My Skills
+##  My Skills
 
 <p>
     <summary><b>Languages</b></summary>
@@ -70,11 +70,11 @@ Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a re
     </a>
 </p>
 
-## 🔥 Streak Stats
+## Streak Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-alvi2k&theme=algolia"
         alt="salman-alvi2k" /></p>
 
-## 📊 Github Stats
+## Github Stats
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Salman's Github Stats"
             src="https://github-readme-stats.vercel.app/api?username=salman-alvi2k&show_icons=true&count_private=true&theme=algolia"
