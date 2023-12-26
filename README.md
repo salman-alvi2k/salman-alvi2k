@@ -23,6 +23,10 @@ Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a re
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </a>
+        <a href="https://www.python.org" target="_blank">
+        <img alt="Python"
+            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </a>
     <br />
     <br />
     <summary><b>Frontend Development</b></summary>
