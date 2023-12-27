@@ -2,7 +2,7 @@
         width="35"></h1>
 
 ## About me
-Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a recent computer science graduate from Air University, Islamabad. I'm passionate about crafting scalable applications. As a problem-solver and critical thinker, I’m always eager to learn and take on new challenges. I also have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
+Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a recent computer science graduate from Air University, Islamabad. I'm passionate about crafting scalable applications. As a problem-solver and critical thinker, I’m always eager to learn and take on new challenges.
 
 ##  Connect with me
 <p>
