@@ -1,9 +1,6 @@
 <h1 align="center">Hey , I'm Muhammad Salman Alvi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 
-## About me
-Hello there! 👋 I'm Salman, a Software Engineer at 1011 Technologies, and a recent computer science graduate from Air University, Islamabad. I'm passionate about crafting scalable applications. As a problem-solver and critical thinker, I’m always eager to learn and take on new challenges.
-
 ##  Connect with me
 <p>
     <a href="https://www.linkedin.com/in/salmanalvi2k/" target="_blank">
