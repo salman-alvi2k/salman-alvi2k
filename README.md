@@ -22,9 +22,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
-<a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</a>
     <br />
     <br />
     <summary><b>Frontend Development</b></summary>
